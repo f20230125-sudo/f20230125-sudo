@@ -10,6 +10,12 @@ Computer Science undergraduate at BITS Pilani, Dubai Campus, building toward a c
 
 ---
 
+### 3D Contribution Graph
+
+[![My 3D contribution graph](https://raw.githubusercontent.com/f20230125-sudo/f20230125-sudo/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
+
+---
+
 ### Featured Projects
 
 **[Document Q&A Agent (RAG)](https://github.com/f20230125-sudo/document-qa-agent)**
