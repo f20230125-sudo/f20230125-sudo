@@ -14,6 +14,12 @@ Computer Science undergraduate at BITS Pilani, Dubai Campus, building toward a c
 
 [![My 3D contribution graph](https://raw.githubusercontent.com/f20230125-sudo/f20230125-sudo/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f20230125-sudo/f20230125-sudo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f20230125-sudo/f20230125-sudo/output/github-contribution-grid-snake.svg">
+  <img alt="a snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/f20230125-sudo/f20230125-sudo/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
 ### Featured Projects
