@@ -10,6 +10,20 @@ Computer Science undergraduate at BITS Pilani, Dubai Campus, building toward a c
 
 ---
 
+### Try my interactive projects
+
+| Project | What it does | Try it | Source |
+| --- | --- | --- | --- |
+| **Flowboard** | Connect blocks into a workflow, run it, and inspect the data at every step. | [Live demo](https://flowboard-flax-seven.vercel.app) | [GitHub](https://github.com/f20230125-sudo/flowboard) |
+| **Sayso** | A demo airline service desk: one request becomes interactive flight, seat, and bag controls. | [Live demo](https://sayso-sigma.vercel.app) | [GitHub](https://github.com/f20230125-sudo/sayso) |
+| **Hindsight** | Explore agent runs on a timeline, separating API calls, model calls, and time waiting for a person. | [Live demo](https://hindsight-sand.vercel.app) | [GitHub](https://github.com/f20230125-sudo/hindsight) |
+
+Start with **Flowboard**: open the demo and press **Run**. No installation, account, or API key is needed for the built-in example.
+
+If a project is useful to you, consider giving its repository a star. Feedback and bug reports are welcome too.
+
+---
+
 ### 3D Contribution Graph
 
 [![My 3D contribution graph](https://raw.githubusercontent.com/f20230125-sudo/f20230125-sudo/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
